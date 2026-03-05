@@ -1,11 +1,8 @@
-```
-SAP INVOICE PARTIAL PAYMENT AUTOMATION SCRIPT
-=============================================
-
 This repository serves as a portfolio showcase demonstrating how VBA and SAP GUI Scripting can be used
 to eliminate repetitive manual tasks in Enterprise Resource Planning (ERP) environments.
 
-The Excel sheet for the F28 Input Automation script should look like this:
+```
+The Excel sheet for this F28 Input Automation script should look like this:
 
 		 A  |  B  |  C  |             D              |             E              |       F       | ...
 ------+-----+-----+-----+----------------------------+----------------------------+---------------+----
@@ -23,7 +20,7 @@ The Excel sheet for the F28 Input Automation script should look like this:
   5   |     |     |     | ...                        | ...                        |               |
   6   |     |     |     | ...                        | ...                        |               |
 
-
+```
 
 DESCRIPTION
 -----------
@@ -76,8 +73,9 @@ USAGE
 5.  Run the script.
 6.  Use the 'ClearInputCells' subroutine to easily clear the data from the Excel file.
 
-================================================================================
+-------------
 AUTHOR: Princzinger Krisztián
+
 LICENSE: MIT
-================================================================================
-```
+
+
